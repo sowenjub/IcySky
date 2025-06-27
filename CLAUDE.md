@@ -95,6 +95,7 @@ public let configurationUpdates: AsyncStream<ATProtocolConfiguration?>
         }
     }
 }
+```
 
 ### Testing Approach
 - Swift Testing framework (modern replacement for XCTest)
